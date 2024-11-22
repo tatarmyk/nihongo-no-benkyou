@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "84401b40fb88f856",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "add5f120788b996e",
             "type": "leaf",
             "state": {
@@ -49,7 +59,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0861985ef460687e",
+  "active": "84401b40fb88f856",
   "lastOpenFiles": [
-    "Grammar/て-form.md",
+    "Grammar/ているー form.md",
     "AI message.md",
+    "Grammar/て-form.md",
     "Current Tasks.md",
     "README.md",
     "Vocab",
