@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Tasks.md",
+                "file": "Grammar/て-form.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Tasks"
+              "title": "て-form"
             }
           },
           {
@@ -186,12 +186,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ee1b6ebf8189cdd",
+  "active": "0861985ef460687e",
   "lastOpenFiles": [
+    "Grammar/て-form.md",
+    "AI message.md",
     "Current Tasks.md",
     "README.md",
-    "AI message.md",
-    "Grammar/て-form.md",
     "Vocab",
     "Grammar",
     "Welcome.md",

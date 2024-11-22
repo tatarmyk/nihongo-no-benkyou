@@ -54,6 +54,8 @@ Try to change these into て-form! Remember the rules we just learned.
 
 Also, after we practice the basic forms, we can try making simple sentences using て-form, like what Murakami's characters might do in their daily lives: コーヒーを飲んで、本を読む。(こーひーをのんで、ほんをよむ。) (Drinking coffee and reading books - very Murakami-esque!)
 
+#### Words transform
+
 > 書いて
 > 飲んで
 > 遊んで
@@ -65,3 +67,11 @@ Also, after we practice the basic forms, we can try making simple sentences usin
 > 来て
 > 待って
 
+#### Sentences 
+
+> 飽きて、あさごはんを食べました。
+　ばんごはんを食べて、お茶を飲んで、ねました。
+>ローマに来て、コロッセオを行って、パスタをたべます！
+>しごとに行って、コーヒーを飲みました。
+> お茶を飲んで、本を読んでいる。
+> べんきょうして、おんがくをきいている。
