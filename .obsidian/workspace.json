@@ -37,12 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/て-form.md",
+                "file": "AI message.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "て-form"
+              "title": "AI message"
+            }
+          },
+          {
+            "id": "3c5505b79d5c6839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocab/私の家族.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "私の家族"
             }
           },
           {
@@ -199,10 +213,11 @@
   },
   "active": "84401b40fb88f856",
   "lastOpenFiles": [
-    "Grammar/ているー form.md",
-    "AI message.md",
-    "Grammar/て-form.md",
     "Current Tasks.md",
+    "Vocab/私の家族.md",
+    "AI message.md",
+    "Grammar/ているー form.md",
+    "Grammar/て-form.md",
     "README.md",
     "Vocab",
     "Grammar",
