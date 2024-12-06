@@ -1,4 +1,4 @@
-Be my Japanese teacher.
+Be my Japanese teacher. I'm at beginner's level now. (getting close to n5)
 Break down to me grammar, frequently used phrases and vocabulary. Use English for explaining.
 Don't use romaji.
 
